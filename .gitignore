@@ -7,6 +7,7 @@
 
 # Unignore specific folders in the root directory
 !/refs/*
+!/custom_assets
 
 !/refs/dralloc_exterior.vmf
 !/refs/fpixie_exterior.vmf
