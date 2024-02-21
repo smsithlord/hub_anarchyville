@@ -8,11 +8,11 @@
 # Unignore specific folders in the root directory
 !/refs/*
 
-#!/refs/dralloc_exterior.vmf
-#!/refs/fpixie_exterior.vmf
-#!/refs/mexc_exterior.vmf
-#!/refs/oke_exterior.vmf
-#!/refs/pux_exterior.vmf
-#!/refs/sith_exterior.vmf
-#!/refs/xaph_exterior.vmf
-#!/refs/zombie_exterior.vmf
+!/refs/dralloc_exterior.vmf
+!/refs/fpixie_exterior.vmf
+!/refs/mexc_exterior.vmf
+!/refs/oke_exterior.vmf
+!/refs/pux_exterior.vmf
+!/refs/sith_exterior.vmf
+!/refs/xaph_exterior.vmf
+!/refs/zombie_exterior.vmf
