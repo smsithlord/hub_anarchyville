@@ -1,32 +1,18 @@
-# Prerequisites
-*.d
+# Ignore all files in the root directory
+/*
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Unignore specific files in the root directory
+!/.gitignore
+!/hub_anarchyville.vmf
 
-# Precompiled Headers
-*.gch
-*.pch
+# Unignore specific folders in the root directory
+!/refs/*
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#!/refs/dralloc_exterior.vmf
+#!/refs/fpixie_exterior.vmf
+#!/refs/mexc_exterior.vmf
+#!/refs/oke_exterior.vmf
+#!/refs/pux_exterior.vmf
+#!/refs/sith_exterior.vmf
+#!/refs/xaph_exterior.vmf
+#!/refs/zombie_exterior.vmf
