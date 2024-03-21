@@ -57,7 +57,7 @@ Additional blocks will be created when this block fills up. (Each block is itsel
 |OkeDoke|![](https://i.imgur.com/ugLLKFR.jpeg)|TBD|
 |Pux|![](https://i.imgur.com/DTLI9Wo.jpeg)|TBD|
 |Dralloc|![](https://i.imgur.com/fYkvMyg.jpeg)|TBD|
-|Eko|![](https://i.imgur.com/rtD2Cu4.jpeg)|TBD|
+|Eko|![](https://i.imgur.com/AeojxNj.jpeg)|TBD|
 
 ## Contributing
 The GitHub repo to download the project files is at https://github.com/smsithlord/hub_anarchyville
